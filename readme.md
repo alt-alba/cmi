@@ -24,11 +24,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Resolución:** 1152x648 px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 1152x648 px 
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome 
 
-**Tamaño proyecto:** 14MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -36,9 +35,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github
 
 
 
@@ -69,16 +66,14 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+**Referencias**
+
+- *Rojo. A spanish horror sperience*. Inspiración no tanto a nivel temático ni tipo de juego, sino en cuestiones estéticas.
+- *Snake Game*. Para la mecánica del minijuego.
 
 
-
-**Motivación de la propuesta** 
-
-Este  proyecto es interesante porque ... 
 
 
 
@@ -116,11 +111,6 @@ El desarrollo de este proyecto ha sido una experiencia muy enriquecedora a nivel
 
 
 
-# 5 Referencias 
-
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
