@@ -52,8 +52,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.2. Esquema de navegación 
 
-
-
 ![ESQUEMA DE NAVEGACIÓN](https://github.com/user-attachments/assets/eff9e744-381c-475c-9985-5f95d64300d2)
 
 
