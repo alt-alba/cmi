@@ -1,0 +1,14 @@
+AnimatedSprite2D
+AnimationPlayer
+AudioStreamPlayer2D
+TextureButton
+Button
+TextureRect
+MarginContainer
+GridContainer
+Label
+VBoxContainer
+HBoxContainer
+Panel
+CanvasLayer
+VideoStreamPlayer
