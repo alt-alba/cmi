@@ -1,0 +1,11 @@
+res://escenas/intro.tscn
+res://escenas/menu.tscn
+res://escenas/creditos.tscn
+res://escenas/galeria.tscn
+res://escenas/escena prejuego.tscn
+res://escenas/diálogo prejuego.tscn
+res://escenas/EL LABERINTO DEL FARY.tscn
+res://gameplay/gameplay.tscn
+res://gameplay/head.tscn
+res://gameplay/game_over.tscn
+res://gameplay/food.tscn
