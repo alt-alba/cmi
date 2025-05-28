@@ -43,10 +43,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
+![STORYBOARD](https://github.com/user-attachments/assets/e19a8ac2-f961-4836-a434-7c0770c2c66e)
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+
 
 
 
