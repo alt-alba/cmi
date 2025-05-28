@@ -92,14 +92,8 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
-
+El desarrollo del proyecto se realizó utilizando el motor de videojuegos Godot Engine, aplicando una metodología basada en el desarrollo iterativo. En primer lugar, se diseñó un menú principal con botones que permiten navegar a otras secciones del proyecto, como los créditos o la galería, donde también se han incluido escenas con importación de video, integrando un archivo multimedia mediante el nodo VideoPlayer. Cada escena fue desarrollada por separado y enlazada utilizando la funcionalidad de cambio de escenas de Godot, lo que permitió una estructura clara y ordenada.
+Con respecto al juego como tal, el objetivo principal fue crear una versión funcional y expandida del clásico juego *Snake*. El proceso comenzó con el diseño de las mecánicas básicas del juego, desarrollando una escena principal donde la serpiente (en este caso el personaje) se desplaza por la pantalla, va creando una cola tras de sí al comer y termina la partida al colisionar consigo misma. Se aplicaron principios de programación estructurada utilizando GDScript, haciendo uso de nodos personalizados y señales para coordinar eventos entre objetos.
 
 
 ### Etapa 3: Problemas identificados
