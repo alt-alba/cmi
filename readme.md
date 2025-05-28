@@ -54,9 +54,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
+![ESQUEMA DE NAVEGACIÓN](https://github.com/user-attachments/assets/eff9e744-381c-475c-9985-5f95d64300d2)
 
 
 
