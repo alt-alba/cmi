@@ -18,6 +18,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Juego
 
+**Tamaño**: 115mb
+
 **Logotipo** : 
 ![LOGO](https://github.com/user-attachments/assets/bc98b2c9-9a09-4098-9432-3e3f63ab546b)
 
