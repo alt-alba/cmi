@@ -126,9 +126,11 @@ El desarrollo de este proyecto ha sido una experiencia muy enriquecedora a nivel
 
 * Musica:
   
-  -"Bandido" - Azúcar Moreno
-  -"El Porompompero" - Manolo Escobar
-  -"Campanera" - Joselito
+  -*"Bandido"* - Azúcar Moreno
+
+  -*"El Porompompero"* - Manolo Escobar
+
+   -*"Campanera"* - Joselito
 * Imágenes: De creación personal.  
 * Tipografía:
 
