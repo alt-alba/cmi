@@ -14,7 +14,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Alba Callejón Jareño
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Se trata de un videojuego de humor y aventuras donde la protagonista es una anciana que te encarga una serie de recados absurdos y extravagantes. El objetivo es ayudarle a conseguir la codiciada tarjeta VIP del Club del Pensionista, que te financiará viajes a Benidorm, te dan croquetas sin racionar e incluso te pueden llevar a conocer al mismísimo Julio Iglesias. A lo largo del juego, completarás misiones basadas en canciones de la época de los 70/80s, como el *Laberinto del Fary*.
 
 **Estilo/género:**  Juego
 
